@@ -35,13 +35,15 @@ I believe strong basics create strong developers.
 A structured and interactive web application that displays Bhagavad Gita verses in a clean and readable format.
 
 ### 🔍 Why This Project Stands Out
-- Built using pure JavaScript (no frameworks)
-- Dynamic DOM rendering
-- Organized data handling
-- Clean, readable UI
+- Built using **JavaScript, HTML, CSS, and Bootstrap**
+- **Responsive layout** for all screen sizes
+- Fetches data from an **API** dynamically
+- Saves user preferences with **localStorage**
+- Organized data handling and clean UI design
 - Structured and maintainable codebase
 
-This project demonstrates my ability to build real-world structured applications using core frontend technologies.
+This project demonstrates my ability to build real-world applications with interactive features, responsive design, and basic front-end data persistence.
+
 
 🔗 Live Demo: [Add Link]  
 📂 Repository: [Add Link]
@@ -75,7 +77,7 @@ This project marks my transition from vanilla JavaScript to modern frontend deve
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Add Link]
+- LinkedIn: [https://www.linkedin.com/in/palak-889a66358]
 - Email: [palkzzzy@gmail.com]
 
 ---
