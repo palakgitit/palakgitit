@@ -60,8 +60,8 @@ A simple counter application built using React and the useState hook.
 
 This project marks my transition from vanilla JavaScript to modern frontend development using React.
 
-🔗 Live Demo: [Add Link]  
-📂 Repository: [Add Link]
+🔗 Live Demo: [https://counter-app-eight-ebon.vercel.app/]  
+📂 Repository: [https://github.com/palakgitit/counter-app.git]
 
 ---
 
@@ -76,7 +76,7 @@ This project marks my transition from vanilla JavaScript to modern frontend deve
 ## 📫 Let's Connect
 
 - LinkedIn: [Add Link]
-- Email: [Add Email]
+- Email: [palkzzzy@gmail.com]
 
 ---
 
