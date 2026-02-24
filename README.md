@@ -45,8 +45,8 @@ A structured and interactive web application that displays Bhagavad Gita verses 
 This project demonstrates my ability to build real-world applications with interactive features, responsive design, and basic front-end data persistence.
 
 
-🔗 Live Demo: [Add Link]  
-📂 Repository: [Add Link]
+🔗 Live Demo: [bhagvadgita-app.vercel.app]  
+📂 Repository: [https://github.com/palakgitit/bhagvadgita-app.git]
 
 ---
 
