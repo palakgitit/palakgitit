@@ -38,7 +38,7 @@ A structured and interactive web application that displays Bhagavad Gita verses 
 - Built using **JavaScript, HTML, CSS, and Bootstrap**
 - **Responsive layout** for all screen sizes
 - Fetches data from an **API** dynamically
-- Saves user preferences with **localStorage**
+- Saves user data (subscribers) with **localStorage**
 - Organized data handling and clean UI design
 - Structured and maintainable codebase
 
