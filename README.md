@@ -77,7 +77,7 @@ This project marks my transition from vanilla JavaScript to modern frontend deve
 
 ## 📫 Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/palak-889a66358]
+- LinkedIn: [https://linkedin.com/in/ghadialipalak]
 - Email: [palkzzzy@gmail.com]
 
 ---
