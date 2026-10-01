@@ -50,26 +50,9 @@ This project demonstrates my ability to build real-world applications with inter
 
 ---
 
-## 🔢 React Counter Application
-
-A simple counter application built using React and the useState hook.
-
-### 🔍 What It Demonstrates
-- Understanding of React functional components
-- State management using useState
-- Event handling in React
-- Component-based architecture fundamentals
-
-This project marks my transition from vanilla JavaScript to modern frontend development using React.
-
-🔗 Live Demo: [https://counter-app-eight-ebon.vercel.app/]  
-📂 Repository: [https://github.com/palakgitit/counter-app.git]
-
----
-
 ## 📈 Currently Working On
 
-- Deepening my understanding of React
+- Deepening my understanding of Javascript + libraries.
 - Improving JavaScript problem-solving skills
 - Building more interactive frontend projects
 
@@ -77,7 +60,6 @@ This project marks my transition from vanilla JavaScript to modern frontend deve
 
 ## 📫 Let's Connect
 
-- LinkedIn: [https://linkedin.com/in/ghadialipalak]
 - Email: [palkzzzy@gmail.com]
 
 ---
